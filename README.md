@@ -1,3 +1,8 @@
+ONE FLAW: Not inputting a location will throw an error!!!
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
